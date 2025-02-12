@@ -1,0 +1,7 @@
+User Activities Log:
+User 'John' logged in.
+User 'Jane' accessed the dashboard.
+User 'Bob' performed the file operation.User Activities Log:
+User 'aaa' logged in.
+User 'd' accessed the dashboard.
+User 'dd' performed the file operation.

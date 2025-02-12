@@ -1,0 +1,8 @@
+Line 1: Writing to a file in C++.
+Line 2: File handling is essentail for data manipulation.
+Line 1: Writing to a file in C++.
+Line 2: File handling is essentail for data manipulation.
+Line 1: Writing to a file in C++.
+Line 2: File handling is essentail for data manipulation.
+Line 1: Writing to a file in C++.
+Line 2: File handling is essentail for data manipulation.
